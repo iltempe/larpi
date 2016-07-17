@@ -95,7 +95,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Intended as a documentation and descriptio of LARPI project. An open source server which provides an Ingress-like (Pokemon Go) API for building Augmented Reality experiences, available to users from a hosted web page or an app."
+description: "Intended as a documentation and descriptio of LARPI project. Location Augmented Reality Program Interaction API (LARPI) is an open source server which provides an Ingress-like (Pokemon Go) API for building Augmented Reality experiences, available to users from a hosted web page or an app."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
